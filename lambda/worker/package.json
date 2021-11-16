@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "aws-sdk": "^2.68.0",
+    "aws-sdk": "^2.814.0",
     "bitscoop-sdk": "^0.2.0",
     "email-addresses": "^2.0.2",
     "lodash": "^4.17.4",
