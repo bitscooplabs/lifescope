@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "aws-sdk": "^2.188.0",
+    "aws-sdk": "^2.814.0",
     "lodash": "^4.17.4",
     "mongodb": "^2.2.34",
     "uuid": "^2.0.3"
